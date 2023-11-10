@@ -1,0 +1,52 @@
+*{
+    padding: 0;
+    margin:0;
+    box-sizing: border-box;
+}
+.head{
+    width:100vw;
+    height:100vh;
+    background-color:black;
+    color: aqua;
+    border: 5px aqua solid;
+}
+
+
+.container{
+  
+    width:100%;
+    height:80%;
+    border:2px black solid;
+
+}
+.but{
+
+  padding-left:40%;
+    width:90%;
+    height:90%;
+    
+  
+
+    
+
+}
+
+.b{
+    width: 15%;
+    height:20%;
+    padding:1px;
+    margin:1px;
+    background-color: aqua;
+    border: 1px aqua solid;
+}
+
+.banner{
+    text-transform: uppercase;
+    font-size: 50px;
+    text-align: center;
+}
+.result{
+    text-transform: uppercase;
+    font-size: 30px;
+    text-align: center;
+}
